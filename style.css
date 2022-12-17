@@ -1,0 +1,84 @@
+
+        body{
+            background-color: grey;
+            text-align: center;
+        }
+        .fun{
+            background-color: aqua;
+            padding: 2rem;
+            text-align: center;
+        }
+
+        header {
+            background-color: #374151;
+            margin: auto;
+            padding: 1rem;
+            text-align: center ;
+        }
+        .advance-link{
+            text-decoration: none;
+            /* display: block; */
+            text-align: right;
+            
+            padding: 1rem;
+            background-color: blue;
+            color: aliceblue;
+            border: solid black 1px;
+            border-radius: 1rem;
+        }
+        .link {
+            text-decoration: none;
+            /* display: block; */
+            text-align: right;
+            padding: 5px;
+            color: aliceblue;
+        }
+        .container{
+            font-size: 20px;
+            
+        }
+        /* .input{
+            display: block;
+        } */
+        .in-lable{
+            display: block;
+            color: #374151;
+            font-size: large;
+            font-weight: 600;
+        }
+        .input{
+            display: block;
+            margin: auto;
+            border-radius: 0.3rem;
+            background-color: #374151;
+            padding: 0.5rem;
+            color: #F3F4F6;
+            font-weight: bolder;
+            text-align: center;
+        }
+        #calculate{
+            background-color: green;
+            margin: 2rem;
+            font-size: 20px;
+        }
+        
+        #Tringle-btn{
+            border-radius: 0.5rem;
+            background-color: #374151;
+            margin: 0.5rem;
+            padding: 0.5rem;
+            color: #F3F4F6;
+            font-weight: bolder;
+        }
+
+        #output{
+            
+            margin: 1rem;
+            font-size: larger;
+            font-weight: 600;
+            padding: 5rem;
+            border: solid black;
+            background-color: antiquewhite;
+        }
+
+
